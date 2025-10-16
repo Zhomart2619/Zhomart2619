@@ -1,0 +1,390 @@
+--2025-10-16 11:49:12--  https://aurajobs.ai/
+Resolving aurajobs.ai (aurajobs.ai)... 34.111.179.208
+Connecting to aurajobs.ai (aurajobs.ai)|34.111.179.208|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5452 (5.3K) [text/html]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/index.html’
+
+     0K .....                                                 100%  103M=0s
+
+2025-10-16 11:49:12 (103 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/index.html’ saved [5452/5452]
+
+--2025-10-16 11:49:12--  https://aurajobs.ai/favicon.ico
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15086 (15K) [image/x-icon]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/favicon.ico’
+
+     0K .......... ....                                       100% 4.72M=0.003s
+
+2025-10-16 11:49:12 (4.72 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/favicon.ico’ saved [15086/15086]
+
+--2025-10-16 11:49:12--  https://aurajobs.ai/favicon.svg
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2447 (2.4K) [image/svg+xml]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/favicon.svg’
+
+     0K ..                                                    100% 14.4M=0s
+
+2025-10-16 11:49:12 (14.4 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/favicon.svg’ saved [2447/2447]
+
+--2025-10-16 11:49:12--  https://aurajobs.ai/icons/favicon-32x32.png
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2116 (2.1K) [image/png]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/icons/favicon-32x32.png’
+
+     0K ..                                                    100% 34.9M=0s
+
+2025-10-16 11:49:13 (34.9 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/icons/favicon-32x32.png’ saved [2116/2116]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/icons/favicon-16x16.png
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 875 [image/png]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/icons/favicon-16x16.png’
+
+     0K                                                       100% 17.9M=0s
+
+2025-10-16 11:49:13 (17.9 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/icons/favicon-16x16.png’ saved [875/875]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/icons/apple-touch-icon.png
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 14669 (14K) [image/png]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/icons/apple-touch-icon.png’
+
+     0K .......... ....                                       100% 4.43M=0.003s
+
+2025-10-16 11:49:13 (4.43 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/icons/apple-touch-icon.png’ saved [14669/14669]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/site.webmanifest
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 905 [application/manifest+json]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/site.webmanifest’
+
+     0K                                                       100% 4.79M=0s
+
+2025-10-16 11:49:13 (4.79 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/site.webmanifest’ saved [905/905]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/assets/index-vKibemCN.js
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2309172 (2.2M) [application/javascript]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/index-vKibemCN.js’
+
+     0K .......... .......... .......... .......... ..........  2% 3.83M 1s
+    50K .......... .......... .......... .......... ..........  4% 6.64M 0s
+   100K .......... .......... .......... .......... ..........  6% 8.36M 0s
+   150K .......... .......... .......... .......... ..........  8% 15.0M 0s
+   200K .......... .......... .......... .......... .......... 11% 18.2M 0s
+   250K .......... .......... .......... .......... .......... 13% 13.1M 0s
+   300K .......... .......... .......... .......... .......... 15% 35.2M 0s
+   350K .......... .......... .......... .......... .......... 17% 26.4M 0s
+   400K .......... .......... .......... .......... .......... 19% 60.0M 0s
+   450K .......... .......... .......... .......... .......... 22% 27.6M 0s
+   500K .......... .......... .......... .......... .......... 24% 33.3M 0s
+   550K .......... .......... .......... .......... .......... 26% 35.0M 0s
+   600K .......... .......... .......... .......... .......... 28% 85.3M 0s
+   650K .......... .......... .......... .......... .......... 31% 62.1M 0s
+   700K .......... .......... .......... .......... .......... 33% 36.3M 0s
+   750K .......... .......... .......... .......... .......... 35% 61.1M 0s
+   800K .......... .......... .......... .......... .......... 37% 51.3M 0s
+   850K .......... .......... .......... .......... .......... 39%  222M 0s
+   900K .......... .......... .......... .......... .......... 42% 39.8M 0s
+   950K .......... .......... .......... .......... .......... 44% 66.4M 0s
+  1000K .......... .......... .......... .......... .......... 46% 67.6M 0s
+  1050K .......... .......... .......... .......... .......... 48% 62.4M 0s
+  1100K .......... .......... .......... .......... .......... 50%  338M 0s
+  1150K .......... .......... .......... .......... .......... 53% 62.7M 0s
+  1200K .......... .......... .......... .......... .......... 55%  109M 0s
+  1250K .......... .......... .......... .......... .......... 57% 14.2M 0s
+  1300K .......... .......... .......... .......... .......... 59%  267M 0s
+  1350K .......... .......... .......... .......... .......... 62%  493M 0s
+  1400K .......... .......... .......... .......... .......... 64%  460M 0s
+  1450K .......... .......... .......... .......... .......... 66%  383M 0s
+  1500K .......... .......... .......... .......... .......... 68%  114M 0s
+  1550K .......... .......... .......... .......... .......... 70%  500M 0s
+  1600K .......... .......... .......... .......... .......... 73%  395M 0s
+  1650K .......... .......... .......... .......... .......... 75%  538M 0s
+  1700K .......... .......... .......... .......... .......... 77%  313M 0s
+  1750K .......... .......... .......... .......... .......... 79%  476M 0s
+  1800K .......... .......... .......... .......... .......... 82% 63.6M 0s
+  1850K .......... .......... .......... .......... .......... 84%  510M 0s
+  1900K .......... .......... .......... .......... .......... 86%  403M 0s
+  1950K .......... .......... .......... .......... .......... 88%  506M 0s
+  2000K .......... .......... .......... .......... .......... 90% 73.4M 0s
+  2050K .......... .......... .......... .......... .......... 93%  345M 0s
+  2100K .......... .......... .......... .......... .......... 95%  281M 0s
+  2150K .......... .......... .......... .......... .......... 97% 88.1M 0s
+  2200K .......... .......... .......... .......... .......... 99% 99.5M 0s
+  2250K .....                                                 100% 9.41T=0.06s
+
+2025-10-16 11:49:13 (35.6 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/index-vKibemCN.js’ saved [2309172/2309172]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/assets/index-ajHyXO_d.css
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 132181 (129K) [text/css]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/index-ajHyXO_d.css’
+
+     0K .......... .......... .......... .......... .......... 38%  102M 0s
+    50K .......... .......... .......... .......... .......... 77% 52.8M 0s
+   100K .......... .......... .........                       100%  234M=0.002s
+
+2025-10-16 11:49:13 (82.6 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/index-ajHyXO_d.css’ saved [132181/132181]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/assets/poppins-devanagari-400-normal-CJDn6rn8.woff2
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39660 (39K) [font/woff2]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-400-normal-CJDn6rn8.woff2’
+
+     0K .......... .......... .......... ........             100% 36.8M=0.001s
+
+2025-10-16 11:49:13 (36.8 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-400-normal-CJDn6rn8.woff2’ saved [39660/39660]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/assets/poppins-devanagari-400-normal-CqVvlrh5.woff
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 52980 (52K) [font/woff]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-400-normal-CqVvlrh5.woff’
+
+     0K .......... .......... .......... .......... .......... 96%  303M 0s
+    50K .                                                     100% 3.24T=0s
+
+2025-10-16 11:49:13 (313 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-400-normal-CqVvlrh5.woff’ saved [52980/52980]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/assets/poppins-latin-ext-400-normal-by3JarPu.woff2
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5644 (5.5K) [font/woff2]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-400-normal-by3JarPu.woff2’
+
+     0K .....                                                 100%  136M=0s
+
+2025-10-16 11:49:13 (136 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-400-normal-by3JarPu.woff2’ saved [5644/5644]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/assets/poppins-latin-ext-400-normal-DaBSavcJ.woff
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7460 (7.3K) [font/woff]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-400-normal-DaBSavcJ.woff’
+
+     0K .......                                               100% 3.53G=0s
+
+2025-10-16 11:49:13 (3.53 GB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-400-normal-DaBSavcJ.woff’ saved [7460/7460]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/assets/poppins-latin-400-normal-cpxAROuN.woff2
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7884 (7.7K) [font/woff2]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-400-normal-cpxAROuN.woff2’
+
+     0K .......                                               100% 4.22G=0s
+
+2025-10-16 11:49:13 (4.22 GB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-400-normal-cpxAROuN.woff2’ saved [7884/7884]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/assets/poppins-latin-400-normal-BOb3E3N0.woff
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10532 (10K) [font/woff]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-400-normal-BOb3E3N0.woff’
+
+     0K ..........                                            100% 4.33G=0s
+
+2025-10-16 11:49:13 (4.33 GB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-400-normal-BOb3E3N0.woff’ saved [10532/10532]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/assets/poppins-devanagari-500-normal-BIdkeU1p.woff2
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39084 (38K) [font/woff2]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-500-normal-BIdkeU1p.woff2’
+
+     0K .......... .......... .......... ........             100%  260M=0s
+
+2025-10-16 11:49:13 (260 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-500-normal-BIdkeU1p.woff2’ saved [39084/39084]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/assets/poppins-devanagari-500-normal-DMPDjHtT.woff
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 52424 (51K) [font/woff]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-500-normal-DMPDjHtT.woff’
+
+     0K .......... .......... .......... .......... .......... 97%  337M 0s
+    50K .                                                     100% 2.23T=0s
+
+2025-10-16 11:49:13 (346 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-500-normal-DMPDjHtT.woff’ saved [52424/52424]
+
+--2025-10-16 11:49:13--  https://aurajobs.ai/assets/poppins-latin-ext-500-normal-CK-6C4Hw.woff2
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5484 (5.4K) [font/woff2]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-500-normal-CK-6C4Hw.woff2’
+
+     0K .....                                                 100%  128M=0s
+
+2025-10-16 11:49:14 (128 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-500-normal-CK-6C4Hw.woff2’ saved [5484/5484]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-latin-ext-500-normal-CgAe2rWW.woff
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7372 (7.2K) [font/woff]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-500-normal-CgAe2rWW.woff’
+
+     0K .......                                               100%  201M=0s
+
+2025-10-16 11:49:14 (201 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-500-normal-CgAe2rWW.woff’ saved [7372/7372]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-latin-500-normal-C8OXljZJ.woff2
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7748 (7.6K) [font/woff2]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-500-normal-C8OXljZJ.woff2’
+
+     0K .......                                               100%  183M=0s
+
+2025-10-16 11:49:14 (183 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-500-normal-C8OXljZJ.woff2’ saved [7748/7748]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-latin-500-normal-DGXqpDMm.woff
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10372 (10K) [font/woff]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-500-normal-DGXqpDMm.woff’
+
+     0K ..........                                            100%  327M=0s
+
+2025-10-16 11:49:14 (327 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-500-normal-DGXqpDMm.woff’ saved [10372/10372]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-devanagari-600-normal-STEjXBNN.woff2
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39292 (38K) [font/woff2]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-600-normal-STEjXBNN.woff2’
+
+     0K .......... .......... .......... ........             100% 89.3M=0s
+
+2025-10-16 11:49:14 (89.3 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-600-normal-STEjXBNN.woff2’ saved [39292/39292]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-devanagari-600-normal-ClASKHrr.woff
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 52560 (51K) [font/woff]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-600-normal-ClASKHrr.woff’
+
+     0K .......... .......... .......... .......... .......... 97%  105M 0s
+    50K .                                                     100% 2.47T=0s
+
+2025-10-16 11:49:14 (107 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-600-normal-ClASKHrr.woff’ saved [52560/52560]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-latin-ext-600-normal-CAhIAdZj.woff2
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5524 (5.4K) [font/woff2]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-600-normal-CAhIAdZj.woff2’
+
+     0K .....                                                 100%  155M=0s
+
+2025-10-16 11:49:14 (155 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-600-normal-CAhIAdZj.woff2’ saved [5524/5524]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-latin-ext-600-normal-Df5ffKXP.woff
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7432 (7.3K) [font/woff]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-600-normal-Df5ffKXP.woff’
+
+     0K .......                                               100%  193M=0s
+
+2025-10-16 11:49:14 (193 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-600-normal-Df5ffKXP.woff’ saved [7432/7432]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-latin-600-normal-zEkxB9Mr.woff2
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8000 (7.8K) [font/woff2]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-600-normal-zEkxB9Mr.woff2’
+
+     0K .......                                               100% 6.57G=0s
+
+2025-10-16 11:49:14 (6.57 GB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-600-normal-zEkxB9Mr.woff2’ saved [8000/8000]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-latin-600-normal-BJdTmd5m.woff
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10600 (10K) [font/woff]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-600-normal-BJdTmd5m.woff’
+
+     0K ..........                                            100%  314M=0s
+
+2025-10-16 11:49:14 (314 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-600-normal-BJdTmd5m.woff’ saved [10600/10600]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-devanagari-700-normal-O-jipLrW.woff2
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 39252 (38K) [font/woff2]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-700-normal-O-jipLrW.woff2’
+
+     0K .......... .......... .......... ........             100%  149M=0s
+
+2025-10-16 11:49:14 (149 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-700-normal-O-jipLrW.woff2’ saved [39252/39252]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-devanagari-700-normal-fHs-vx92.woff
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 52248 (51K) [font/woff]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-700-normal-fHs-vx92.woff’
+
+     0K .......... .......... .......... .......... .......... 97% 91.3M 0s
+    50K .                                                     100% 1.91T=0.001s
+
+2025-10-16 11:49:14 (93.2 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-devanagari-700-normal-fHs-vx92.woff’ saved [52248/52248]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-latin-ext-700-normal-cby-RkWa.woff2
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5432 (5.3K) [font/woff2]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-700-normal-cby-RkWa.woff2’
+
+     0K .....                                                 100%  179M=0s
+
+2025-10-16 11:49:14 (179 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-700-normal-cby-RkWa.woff2’ saved [5432/5432]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-latin-ext-700-normal-DctTR6Tg.woff
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7328 (7.2K) [font/woff]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-700-normal-DctTR6Tg.woff’
+
+     0K .......                                               100%  235M=0s
+
+2025-10-16 11:49:14 (235 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-ext-700-normal-DctTR6Tg.woff’ saved [7328/7328]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-latin-700-normal-Qrb0O0WB.woff2
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7816 (7.6K) [font/woff2]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-700-normal-Qrb0O0WB.woff2’
+
+     0K .......                                               100% 4.56G=0s
+
+2025-10-16 11:49:14 (4.56 GB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-700-normal-Qrb0O0WB.woff2’ saved [7816/7816]
+
+--2025-10-16 11:49:14--  https://aurajobs.ai/assets/poppins-latin-700-normal-BVuQR_eA.woff
+Reusing existing connection to aurajobs.ai:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10432 (10K) [font/woff]
+Saving to: ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-700-normal-BVuQR_eA.woff’
+
+     0K ..........                                            100%  340M=0s
+
+2025-10-16 11:49:15 (340 MB/s) - ‘/workspace/aurajobs.ai/aurajobs.ai/assets/poppins-latin-700-normal-BVuQR_eA.woff’ saved [10432/10432]
+
+FINISHED --2025-10-16 11:49:15--
+Total wall clock time: 2.4s
+Downloaded: 33 files, 2.8M in 0.07s (38.5 MB/s)
+Converting links in /workspace/aurajobs.ai/aurajobs.ai/index.html... 9.
+9-0
+Converting links in /workspace/aurajobs.ai/aurajobs.ai/assets/index-ajHyXO_d.css... 24.
+24-0
+Converted links in 2 files in 0.001 seconds.
